@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    top: 0px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url("../image/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.container{
+    margin: auto;
+    width: 80vmin;
+    position: relative;
+    top: 50vh;
+    transform: translateY(-50%);
+    text-align: center;
+}
+.container h1{
+    font-size: 14vmin;
+    color: white;
+}
+.container p{
+    font-size: 6.1vmin;
+    text-transform: uppercase;
+    color: beige;
+}
+
+.button{
+    text-decoration: none;
+    color: white;
+}
+.button div{
+    font-size: 5vmin;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    top: 10vmin;
+    width: 22vmin;
+    border-radius: 1vmin;
+    padding: 2vmin;
+    background-color: blueviolet;
+}
