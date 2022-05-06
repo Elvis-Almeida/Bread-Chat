@@ -1,4 +1,4 @@
-<div style="height: 150px; width: 100%; background-image: url('./image/Background\ bread.jpg'); background-size: cover;"></div>
+<!-- <div style="height: 150px; width: 100%; background-image: url('./image/Background\ bread.jpg'); background-size: cover;"></div>
 <div style="position: absolute; background-image: url('./image/logo\ bread\ chat.png'); width: 100px; height: 100px; left: 10vw; margin-top: -50px; background-size: cover;"></div>
 <br>
 <br>
@@ -111,4 +111,6 @@
 <aside>
 🧮 A manutenção será feita para consertar bugs ou problemas de desenvolvimento e futuras atualizações.
 
-</aside>
+</aside> -->
+
+# Em Breve
